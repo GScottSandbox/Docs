@@ -250,7 +250,7 @@
 ## [MessagePack Hub Protocol](xref:signalr/messagepackhubprotocol)
 ## [Publish to Azure](xref:signalr/publish-to-azure-web-app)
 ## [Streaming](xref:signalr/streaming)
-## [WebPack and TypeScript](xref:signalr/webpack-and-typescript)
+## [WebPack and TypeScript](xref:tutorials/signalr-typescript-webpack)
 ## [Supported platforms](xref:signalr/supported-platforms)
 
 # [Mobile](xref:mobile/index)
